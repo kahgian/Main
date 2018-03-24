@@ -43,7 +43,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
             correct++;
         tv1 = (TextView) findViewById(R.id.tv1);
         tv2 = (TextView) findViewById(R.id.tv2);
-        tv1.setText("Answer: 1)O 2)Bonus");
+        tv1.setText("Answer: 1.)O 2.)Bonus");
         tv2.setText("Answer: "+correct+"/2");
         Toast.makeText(getApplicationContext(),"Congratulations!!! Quiz is done!!!",Toast.LENGTH_LONG).show();
         correct=0;
