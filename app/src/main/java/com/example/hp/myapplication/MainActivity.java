@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     TextView tv1, tv2;
     RadioButton rdbtn1, rdbtn2;
     CheckBox cb1, cb2, cb3;
-    int correcta;
+    int correcta, correctb;
 
     char update, end;
 
