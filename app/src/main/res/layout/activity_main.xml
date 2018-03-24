@@ -8,7 +8,6 @@
 
     <TextView
         android:id="@+id/tvQuestion1"
-     
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="What is your preferred programming language?"
@@ -18,7 +17,7 @@
         app:layout_constraintLeft_toLeftOf="parent" />
 
     <TextView
-        android:id="@+id/textView2"
+        android:id="@+id/tvQuestion2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="What is the next android os after lollipop will be?"
@@ -86,7 +85,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/btn1"
+        android:id="@+id/btnAnswer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="ANSWER"
@@ -99,7 +98,7 @@
         app:layout_constraintHorizontal_bias="0.028" />
 
     <TextView
-        android:id="@+id/tv2"
+        android:id="@+id/tvVIewANswer"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
