@@ -7,7 +7,7 @@
     tools:context="com.example.hp.myapplication.MainActivity">
 
     <TextView
-        android:id="@+id/textView"
+        android:id="@+id/tvQuestion1"
      
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
