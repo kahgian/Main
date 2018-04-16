@@ -10,7 +10,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
-    Button btn1;
+    Button button1;
     TextView tv1, tv2;
     RadioButton rdbtn1, rdbtn2;
     CheckBox cb1, cb2, cb3;
