@@ -1,5 +1,5 @@
 # Quiz System on Android
-This is a system that will test the ability of students on answering the quiz.
+This is a system that will evaluate students' performance on answering the quiz.
 
 # Dependencies Used
 1) com.android.tools.build:gradle:2.3.1 <br>
